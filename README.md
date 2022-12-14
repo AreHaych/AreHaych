@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert Hollis
+- 👋 Hi, I’m Robert
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning HTML, CSS, Typescript, Software development
 - 💞️ I’m looking to collaborate on ...
