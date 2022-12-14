@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning HTML, CSS, Typescript, Software development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
