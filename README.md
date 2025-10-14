@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Robert
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Angular, Ionic
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me roberthollis969@gmail.com
+- 🌱 I’m currently learning Python
 
 <!---
 AreHaych/AreHaych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
